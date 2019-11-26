@@ -1,0 +1,11 @@
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\bin\Debug\netcoreapp2.1\LinkedListInserter.deps.json
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\bin\Debug\netcoreapp2.1\LinkedListInserter.runtimeconfig.json
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\bin\Debug\netcoreapp2.1\LinkedListInserter.runtimeconfig.dev.json
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\bin\Debug\netcoreapp2.1\LinkedListInserter.dll
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\bin\Debug\netcoreapp2.1\LinkedListInserter.pdb
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\obj\Debug\netcoreapp2.1\LinkedListInserter.csprojAssemblyReference.cache
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\obj\Debug\netcoreapp2.1\LinkedListInserter.csproj.CoreCompileInputs.cache
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\obj\Debug\netcoreapp2.1\LinkedListInserter.AssemblyInfoInputs.cache
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\obj\Debug\netcoreapp2.1\LinkedListInserter.AssemblyInfo.cs
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\obj\Debug\netcoreapp2.1\LinkedListInserter.dll
+E:\OldDriveBackup_Oct_2018\Desktop\UnityJobStuff\LinkedListInserter\LinkedListInserter\LinkedListInserter\obj\Debug\netcoreapp2.1\LinkedListInserter.pdb
